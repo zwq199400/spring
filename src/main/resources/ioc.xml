@@ -1,0 +1,6 @@
+<beans>
+    <bean id="user" class="com.zwq.demo.ioc.pojo.User">
+        <property name="name" value="zzz"/>
+        <property name="age" value="18"/>
+    </bean>
+</beans>
